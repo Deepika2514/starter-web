@@ -12,7 +12,7 @@ examples for Git training demos.
 ## Deployment
 This is a simple example
 ## How to contribute
-
+Please fork this repository
 ### Copyright
 
 2020 Git.Training
